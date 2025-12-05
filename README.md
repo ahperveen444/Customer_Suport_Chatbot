@@ -169,4 +169,8 @@ When chatbot cannot answer:
 ---
 
 
+## Output CLI 
 
+
+
+<img width="1131" height="473" alt="Screenshot 2025-12-05 130035" src="https://github.com/user-attachments/assets/7ce703db-e5cc-4b28-9280-86fe044cead6" />
